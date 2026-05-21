@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Landing from "./components/landing";
-import Profile from "./components/profile";
+import Landing from "./Components/landing";
+import Profile from "./Components/profile";
 
 function App() {
 
